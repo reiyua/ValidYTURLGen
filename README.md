@@ -9,4 +9,4 @@ This is pretty much impossible to get a working URL due to the fact there are 64
 
 A great video discussing this is by Tom Scott "Will YouTube Ever Run Out Of Video IDs?" - https://www.youtube.com/watch?v=gocwRvLhDf8
 
-Thanks to @SpiritAxolotl for creating the code from line 11 to line 21 which actually completes the mathematical equations to generate the video IDs.
+Thanks to @SpiritAxolotl on GitHub (https://github.com/SpiritAxolotl) for creating the code from line 11 to line 21 which actually completes the mathematical equations to generate the video IDs.
