@@ -1,6 +1,10 @@
 # ValidYTURLGen
 Generates Public YouTube Video URLs using Javascript and actually validates them using the Google Cloud YouTube Data API V3.
 
+ISSUES TO BE SOLVED:
+
+Slow down API query rate to stay under the 10,000 per day limit.
+
 This was a stupid joke that generates YouTube URLs, sends them to the Google Cloud YouTube API, validates them then lists valid ones on a public facing website.
 
 This is currently running on a web server @ https://validyturlgen.reiyua.lol
